@@ -1,1 +1,1 @@
-# qiskit-summerjame-team1
+# qiskit-summerjam-team1
